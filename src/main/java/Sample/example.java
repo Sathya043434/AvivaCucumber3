@@ -8,8 +8,9 @@ public class example {
 
     @BeforeClass
     public static void setUp() {
+        System.out.println("Hello world")
 
-    }
+    } 
 
     @AfterClass
     public static void tearDown() {
