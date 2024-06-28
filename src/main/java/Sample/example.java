@@ -7,6 +7,7 @@ public class example {
 
     public static void setUp() {
         System.out.println("Example 1");
+        System.out.println("Example 2");
 
     } 
 
