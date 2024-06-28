@@ -8,7 +8,7 @@ public class example {
 
     @BeforeClass
     public static void setUp() {
-        System.out.println("Hello world")
+        System.out.println("Hello world1");
 
     } 
 
