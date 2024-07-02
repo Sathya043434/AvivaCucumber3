@@ -8,6 +8,7 @@ public class Sample {
         System.out.println("Satya2 branch - Sample 3");
         System.out.println("Satya2 branch - Sample 4");
         System.out.println("Satya2 branch - Sample 5");
+        System.out.println("Satya2 branch - Sample 6");
 
 
     }
