@@ -15,6 +15,10 @@ public class example {
         System.out.println("Satya2 branch - Example 6");
         System.out.println("Satya2 branch - Example 8");
 
-    } 
+        System.out.println("Satya branch - Example 1");
+        System.out.println("Satya branch - Example 2");
+        System.out.println("Satya branch - Example 3");
+        System.out.println("Satya branch - Example 4");
 
+    }
 }

@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="499ff989-ce61-499c-8bf1-8ab3f0b2a28f" name="Changes" comment="Message 4">
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Sample/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sample/Sample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Sample/example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sample/example.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="499ff989-ce61-499c-8bf1-8ab3f0b2a28f" name="Changes" comment="" />
+>>>>>>> 8a57c6c757f4837fa4e0eea3408fdc40cacf5b41
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +47,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -54,8 +59,21 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Satya",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+>>>>>>> 8a57c6c757f4837fa4e0eea3408fdc40cacf5b41
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Sample\src\main\java" />
@@ -115,7 +133,10 @@
         <item itemvalue="Cucumber Java.Feature: sample" />
         <item itemvalue="JUnit.testRunner" />
         <item itemvalue="Cucumber Java.Feature: sample" />
+<<<<<<< HEAD
         <item itemvalue="JUnit.testRunner" />
+=======
+>>>>>>> 8a57c6c757f4837fa4e0eea3408fdc40cacf5b41
       </list>
     </recent_temporary>
   </component>
