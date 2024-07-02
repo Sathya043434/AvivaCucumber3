@@ -10,8 +10,7 @@ public class Sample {
         System.out.println("Satya2 branch - Sample 5");
         System.out.println("Satya2 branch - Sample 7");
         System.out.println("Satya2 branch - Sample 6");
-
-
+        System.out.println("Satya2 branch - Sample 8");
     }
 
 }
